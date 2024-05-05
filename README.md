@@ -7,9 +7,6 @@
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-04/biUOkcl.txt
 ```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-04/zicBGSb.txt
-```
 
 ## ★★★★
 > 失效的订阅链接会被定期更换🆕新订阅会在其位置生成
