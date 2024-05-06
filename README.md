@@ -5,7 +5,13 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-04/biUOkcl.txt
+https://shz.al/tYyR
+```
+```
+https://shz.al/ssE4
+```
+```
+https://shz.al/iCKR
 ```
 
 ## ★★★★
