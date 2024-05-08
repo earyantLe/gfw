@@ -8,7 +8,7 @@
 https://oss.v2rayse.com/proxies/data/2024-05-08/Me0DIp7.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-08/SOtSyb8.txt
+https://oss.v2rayse.com/proxies/data/2024-05-08/n9P4b5M.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-08/m6dckp7.txt
