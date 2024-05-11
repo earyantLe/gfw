@@ -5,7 +5,10 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-09/zjAnx0W.txt
+https://oss.v2rayse.com/proxies/data/2024-05-11/lHo2H5k.txt
+```
+```
+https://oss.v2rayse.com/proxies/data/2024-05-11/RjVkGil.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-10/LCUb6uQ.txt
