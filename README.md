@@ -23,7 +23,7 @@ https://oss.v2rayse.com/proxies/data/2024-05-09/IoGUImT.txt
 https://oss.v2rayse.com/proxies/data/2024-05-10/APe3oIR.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-09/Yk8fd8D.txt
+https://oss.v2rayse.com/proxies/data/2024-05-11/LEGDOle.txt
 ```
 
 ## ★★★★
