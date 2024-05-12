@@ -8,6 +8,9 @@
 https://oss.v2rayse.com/proxies/data/2024-05-11/KNjyAv3.txt
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-05-12/guPQsgn.txt
+```
+```
 https://shz.al/aCE4
 ```
 ```
@@ -21,9 +24,6 @@ https://oss.v2rayse.com/proxies/data/2024-05-10/LCUb6uQ.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-09/IoGUImT.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-10/APe3oIR.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-11/LEGDOle.txt
