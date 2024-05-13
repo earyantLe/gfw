@@ -20,7 +20,7 @@ https://oss.v2rayse.com/proxies/data/2024-05-12/5W7bT6U.txt
 https://shz.al/aCE4
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-09/IoGUImT.txt
+https://shz.al/Fsfc
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-11/LEGDOle.txt
