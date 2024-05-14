@@ -20,16 +20,13 @@ https://oss.v2rayse.com/proxies/data/2024-05-14/qfZoEmc.txt
 https://oss.v2rayse.com/proxies/data/2024-05-13/MzXxGLw.txt
 ```
 ```
-https://shz.al/aCE4
-```
-```
 https://shz.al/Fsfc
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-13/MsrYlP1.txt
+https://shz.al/22cK
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-11/LEGDOle.txt
+https://shz.al/cK3e
 ```
 
 ## ★★★★
