@@ -5,9 +5,6 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-16/fQheFvQ.txt
-```
-```
 https://shz.al/RjZR
 ```
 ```
