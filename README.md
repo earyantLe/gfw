@@ -8,6 +8,9 @@
 https://oss.v2rayse.com/proxies/data/2024-05-17/TwMOiwp.txt
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-05-17/WmNC2nQ.txt
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-05-17/y7fJ5Hv.txt
 ```
 ```
@@ -33,15 +36,6 @@ https://oss.v2rayse.com/proxies/data/2024-05-17/urE4woh.txt
 ```
 ```
 https://shz.al/JFhi
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-17/oJbeolU.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-17/mwVmAY7.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-17/O0dxalc.txt
 ```
 
 ## ★★★★
