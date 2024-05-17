@@ -14,7 +14,7 @@ https://oss.v2rayse.com/proxies/data/2024-05-17/WmNC2nQ.txt
 https://oss.v2rayse.com/proxies/data/2024-05-17/y7fJ5Hv.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-15/A0LewhR.txt
+https://oss.v2rayse.com/proxies/data/2024-05-17/mwVmAY7.txt
 ```
 ```
 https://shz.al/RjZR
