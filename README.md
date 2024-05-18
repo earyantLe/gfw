@@ -5,6 +5,9 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
+https://shz.al/ErbZ
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-05-17/TwMOiwp.txt
 ```
 ```
