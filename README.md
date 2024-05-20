@@ -5,6 +5,12 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
+https://shz.al/nhzr
+```
+```
+https://oss.v2rayse.com/proxies/data/2024-05-20/bVkycna.txt
+```
+```
 https://shz.al/ErbZ
 ```
 ```
@@ -27,9 +33,6 @@ https://shz.al/8nNx
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-20/zn0K3wv.txt
-```
-```
-https://shz.al/JFhi
 ```
 
 ## ★★★★
