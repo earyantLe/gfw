@@ -29,13 +29,10 @@ https://oss.v2rayse.com/proxies/data/2024-05-20/bVkycna.txt
 https://shz.al/TH8X
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-17/z2G9BC7.txt
-```
-```
 https://shz.al/8nNx
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-20/zn0K3wv.txt
+https://oss.v2rayse.com/proxies/data/2024-05-21/sqhXGAc.txt
 ```
 
 ## ★★★★
