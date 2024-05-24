@@ -35,7 +35,7 @@ https://shz.al/TH8X
 https://shz.al/8nNx
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-21/sqhXGAc.txt
+https://oss.v2rayse.com/proxies/data/2024-05-24/dilBHD5.txt
 ```
 
 ## ★★★★
