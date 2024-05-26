@@ -11,9 +11,6 @@ https://shz.al/Qzds
 https://shz.al/D5Qd
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-25/WJzcDut.txt
-```
-```
 https://oss.v2rayse.com/proxies/data/2024-05-25/dtF8IN0.txt
 ```
 ```
