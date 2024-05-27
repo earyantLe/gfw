@@ -8,7 +8,7 @@
 https://shz.al/aSrQ
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-26/ndxdNhg.txt
+https://shz.al/kKfG
 ```
 ```
 https://shz.al/7WQM
@@ -21,9 +21,6 @@ https://oss.v2rayse.com/proxies/data/2024-05-26/7ItJKYr.txt
 ```
 ```
 https://shz.al/x2mH
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-26/2VCd1Qp.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-05-26/UJb6Fm5.txt
