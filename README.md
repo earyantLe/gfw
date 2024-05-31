@@ -8,10 +8,7 @@
 https://shz.al/sttQ
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-31/yUthQXN.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-05-31/gteHnfa.txt
+https://oss.v2rayse.com/proxies/data/2024-05-31/ehIE8Wf.txt
 ```
 ```
 https://shz.al/wDzp
