@@ -11,6 +11,9 @@ https://shz.al/kks4
 https://shz.al/dBbj
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-06-01/zmVUReN.txt
+```
+```
 https://shz.al/rhQQ
 ```
 ```
