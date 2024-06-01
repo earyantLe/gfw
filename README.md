@@ -5,7 +5,10 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/pmjR
+https://shz.al/kks4
+```
+```
+https://shz.al/dBbj
 ```
 ```
 https://shz.al/rhQQ
@@ -14,7 +17,7 @@ https://shz.al/rhQQ
 https://shz.al/Gjf8
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-01/5KqmJpm.txt
+https://oss.v2rayse.com/proxies/data/2024-06-01/7oSIqOO.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-01/VmldNHW.txt
