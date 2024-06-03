@@ -5,9 +5,6 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/RMSS
-```
-```
 https://shz.al/mPmj
 ```
 ```
@@ -15,9 +12,6 @@ https://oss.v2rayse.com/proxies/data/2024-06-03/WMXcajJ.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-01/sWxz1oo.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-03/hC5iJJE.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-03/cPA2MId.txt
