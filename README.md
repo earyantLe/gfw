@@ -14,10 +14,7 @@ https://oss.v2rayse.com/proxies/data/2024-06-05/SWv261L.txt
 https://oss.v2rayse.com/proxies/data/2024-06-05/tPhBU05.txt
 ```
 ```
-https://shz.al/fQ53
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-04/4xQ44uu.txt
+https://oss.v2rayse.com/proxies/data/2024-06-05/qlIwemt.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-04/dxbBydP.txt
@@ -29,7 +26,7 @@ https://oss.v2rayse.com/proxies/data/2024-06-03/X1JmSnC.txt
 https://oss.v2rayse.com/proxies/data/2024-06-03/xbkIosb.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-05-26/UJb6Fm5.txt
+https://oss.v2rayse.com/proxies/data/2024-06-05/UaRgisV.txt
 ```
 
 ## ★★★★
