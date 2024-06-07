@@ -26,7 +26,7 @@ https://oss.v2rayse.com/proxies/data/2024-06-07/7XrnWzq.txt
 https://shz.al/XPRY
 ```
 ```
-https://shz.al/8Qy7
+https://shz.al/5CGG
 ```
 
 ## ★★★★
