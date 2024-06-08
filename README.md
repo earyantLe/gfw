@@ -5,16 +5,16 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/5GcK
+https://shz.al/Q3Ri
 ```
 ```
-https://shz.al/wS5n
+https://shz.al/7F2T
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-08/w8FB4r2.txt
+https://shz.al/8Sax
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-07/eIUkfER.txt
+https://shz.al/fYeW
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-07/wtkKJOh.txt
@@ -48,7 +48,6 @@ https://shz.al/5CGG
 <summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
 
 &nbsp;
-
 > [![Star History Chart](https://api.star-history.com/svg?repos=Cry1ngMan/1&type=Date)](https://star-history.com/#Cry1ngMan/1&Date)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
