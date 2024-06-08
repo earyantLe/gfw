@@ -17,9 +17,6 @@ https://oss.v2rayse.com/proxies/data/2024-06-08/w8FB4r2.txt
 https://oss.v2rayse.com/proxies/data/2024-06-07/eIUkfER.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-07/JsDH7p2.txt
-```
-```
 https://oss.v2rayse.com/proxies/data/2024-06-07/wtkKJOh.txt
 ```
 ```
@@ -27,9 +24,6 @@ https://shz.al/nzcN
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-07/2KNqXXS.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-07/HQjMuXP.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-07/7XrnWzq.txt
@@ -52,8 +46,6 @@ https://shz.al/5CGG
 
 <details>
 <summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
-
-![AgADlA8AAtN1OFE](https://github.com/Cry1ngMan/1/assets/168938778/8d5d1c4f-971b-450d-b328-1a03c1e2b614)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
 <img src="https://komarev.com/ghpvc/?username=Cry1ngMan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
