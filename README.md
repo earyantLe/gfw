@@ -47,9 +47,8 @@ https://shz.al/5CGG
 <details>
 <summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
 
-&nbsp;
-
 > [![Star History Chart](https://api.star-history.com/svg?repos=Cry1ngMan/1&type=Date)](https://star-history.com/#Cry1ngMan/1&Date)
+
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
 <img src="https://komarev.com/ghpvc/?username=Cry1ngMan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </details>
