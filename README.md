@@ -47,6 +47,7 @@ https://shz.al/5CGG
 <details>
 <summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
 
+
 ![AgADlA8AAtN1OFE](https://github.com/Cry1ngMan/1/assets/168938778/8d5d1c4f-971b-450d-b328-1a03c1e2b614)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
