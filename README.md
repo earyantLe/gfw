@@ -32,7 +32,7 @@ https://oss.v2rayse.com/proxies/data/2024-06-08/YEFAqxN.txt
 https://shz.al/nzcN
 ```
 ```
-https://shz.al/XPRY
+https://shz.al/EjB4
 ```
 ```
 https://shz.al/5CGG
