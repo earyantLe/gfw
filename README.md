@@ -43,9 +43,6 @@ https://oss.v2rayse.com/proxies/data/2024-06-09/JVJtUcE.txt
 ```
 https://shz.al/5CGG
 ```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-09/K6qPoJ6.txt
-```
 
 ## ★★★★
 > 失效的订阅链接会被定期更换🆕新订阅会在其位置生成
