@@ -17,6 +17,9 @@ https://shz.al/s8kB
 https://shz.al/7F2T
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-06-09/K6qPoJ6.txt
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-06-08/B6H0TFX.txt
 ```
 ```
