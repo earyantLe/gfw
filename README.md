@@ -20,7 +20,7 @@ https://shz.al/s8kB
 https://shz.al/G4n4
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-07/wtkKJOh.txt
+https://oss.v2rayse.com/proxies/data/2024-06-09/zsgSRiM.txt
 ```
 ```
 https://shz.al/7F2T
