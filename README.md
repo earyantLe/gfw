@@ -32,9 +32,6 @@ https://oss.v2rayse.com/proxies/data/2024-06-09/fwmT5rI.txt
 https://shz.al/EjB4
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-09/JVJtUcE.txt
-```
-```
 https://shz.al/5CGG
 ```
 
