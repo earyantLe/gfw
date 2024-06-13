@@ -5,22 +5,22 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/Pp3i
+https://shz.al/Qbti
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-13/audCEie.txt
 ```
 ```
-https://shz.al/8xrE
+https://shz.al/Pp3i
 ```
 ```
 https://shz.al/nzcN
 ```
 ```
+https://shz.al/8xrE
+```
+```
 https://shz.al/jebc
-```
-```
-https://shz.al/Qbti
 ```
 ```
 https://shz.al/67AX
