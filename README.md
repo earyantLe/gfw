@@ -5,7 +5,7 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/SXzH
+https://shz.al/hGFy
 ```
 ```
 https://shz.al/jebc
