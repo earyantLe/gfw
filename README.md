@@ -11,13 +11,10 @@ https://shz.al/Qbti
 https://oss.v2rayse.com/proxies/data/2024-06-13/audCEie.txt
 ```
 ```
-https://shz.al/Pp3i
+https://oss.v2rayse.com/proxies/data/2024-06-14/iUqWT10.txt
 ```
 ```
 https://shz.al/nzcN
-```
-```
-https://shz.al/8xrE
 ```
 ```
 https://shz.al/jebc
