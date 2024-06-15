@@ -11,6 +11,9 @@ https://shz.al/TkXR
 https://shz.al/jebc
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-06-15/vRZ5pLm.txt
+```
+```
 https://shz.al/67AX
 ```
 ```
