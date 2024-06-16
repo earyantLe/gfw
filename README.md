@@ -5,7 +5,7 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/wxPS
+https://oss.v2rayse.com/proxies/data/2024-06-16/9SzBPhH.txt
 ```
 ```
 https://shz.al/eJXZ
@@ -33,6 +33,9 @@ https://shz.al/3Skk
 ```
 ```
 https://shz.al/MZGD
+```
+```
+https://shz.al/wxPS
 ```
 
 ## ★★★★
