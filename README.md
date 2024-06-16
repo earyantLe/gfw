@@ -11,9 +11,6 @@ https://shz.al/wxPS
 https://shz.al/jebc
 ```
 ```
-https://shz.al/YrRN
-```
-```
 https://shz.al/67AX
 ```
 ```
