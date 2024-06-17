@@ -11,7 +11,7 @@ https://oss.v2rayse.com/proxies/data/2024-06-17/Trsvm5p.txt
 https://shz.al/yKna
 ```
 ```
-https://shz.al/eJXZ
+https://shz.al/5nwG
 ```
 ```
 https://shz.al/d68M
