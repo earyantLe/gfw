@@ -31,9 +31,6 @@ https://shz.al/sRnh
 ```
 https://shz.al/3Skk
 ```
-```
-https://shz.al/wxPS
-```
 
 ## ★★★★
 > 失效的订阅链接会被定期更换🆕新订阅会在其位置生成
