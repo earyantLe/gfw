@@ -5,7 +5,7 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-17/Trsvm5p.txt
+https://shz.al/QpkK
 ```
 ```
 https://shz.al/yKna
