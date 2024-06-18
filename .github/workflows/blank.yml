@@ -27,4 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: cat README | grep "https" > final.txt
+        run: cat README.md | grep "https" > final.txt
+
+      - name: get newst
+        run: git clone https://github.com/Cry1ngMan/1.git && cd 1 && cat README.md | grep "https" > final.txt && git clone https://github.com/earyantLe/gfw.git && cd gfw && cat ../final.txt > ./final.txt && git add ./final.txt && git commit -m 'add' && git push
