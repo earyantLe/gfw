@@ -14,7 +14,7 @@ https://shz.al/yKna
 https://shz.al/d68M
 ```
 ```
-https://shz.al/Fzsy
+https://oss.v2rayse.com/proxies/data/2024-06-18/7OraFpK.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-17/cgwuEea.txt
