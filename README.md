@@ -5,28 +5,16 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-18/k5ICGs0.txt
+https://shz.al/Ajbj
 ```
 ```
-https://shz.al/P2SC
-```
-```
-https://shz.al/d68M
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-18/7OraFpK.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-17/cgwuEea.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-06-16/XAKg9pK.txt
-```
-```
-https://shz.al/67AX
+https://oss.v2rayse.com/proxies/data/2024-06-21/clWuuWH.txt
 ```
 ```
 https://shz.al/sRnh
+```
+```
+https://shz.al/WAZ5
 ```
 ```
 https://shz.al/3Skk
