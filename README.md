@@ -11,9 +11,6 @@ https://shz.al/rsWt
 https://shz.al/3Skk
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-23/W7mlhSE.txt
-```
-```
 https://shz.al/42X2
 ```
 ```
