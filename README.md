@@ -5,6 +5,12 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
+https://oss.v2rayse.com/proxies/data/2024-06-24/3ArAEOh.txt
+```
+```
+https://shz.al/rsWt
+```
+```
 https://shz.al/3Skk
 ```
 ```
@@ -18,6 +24,9 @@ https://oss.v2rayse.com/proxies/data/2024-06-23/UC6riuO.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-23/DYwmaXT.txt
+```
+```
+https://oss.v2rayse.com/proxies/data/2024-06-23/5t332GC.txt
 ```
 
 ## ★★★★
