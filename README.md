@@ -39,7 +39,9 @@ https://oss.v2rayse.com/proxies/data/2024-06-23/5t332GC.txt
 <summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
 
 &nbsp;
+
 ![1402943023](https://github.com/Cry1ngMan/1/assets/168938778/24abd67e-1064-4ff4-9b3c-b9db7d23c160)
+
 > [![Star History Chart](https://api.star-history.com/svg?repos=Cry1ngMan/1&type=Date)](https://star-history.com/#Cry1ngMan/1&Date)
 
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
