@@ -5,19 +5,22 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/rsWt
-```
-```
 https://shz.al/3Skk
 ```
 ```
-https://shz.al/42X2
+https://shz.al/fdTt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-23/UC6riuO.txt
 ```
 ```
+https://shz.al/42X2
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-06-23/DYwmaXT.txt
+```
+```
+https://fs.v2rayse.com/share/20240625/8jjvya2jsq.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-23/5t332GC.txt
