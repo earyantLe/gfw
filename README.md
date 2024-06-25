@@ -11,6 +11,9 @@ https://shz.al/5YHk
 https://shz.al/fdTt
 ```
 ```
+https://fs.v2rayse.com/share/20240625/wtwcht0m6y.txt
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-06-23/UC6riuO.txt
 ```
 ```
