@@ -46,5 +46,6 @@ https://oss.v2rayse.com/proxies/data/2024-06-23/5t332GC.txt
 
 [![GitHub stars](https://img.shields.io/github/stars/Cry1ngMan/1.svg?style=social&label=Stars)](https://github.com/Cry1ngMan/1/stargazers)
 <img src="https://komarev.com/ghpvc/?username=Cry1ngMan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+
 ![1610000106040](https://github.com/Cry1ngMan/1/assets/168938778/3532b174-9869-418f-9b54-6eda53a0a483)
 </details>
