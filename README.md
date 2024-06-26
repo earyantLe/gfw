@@ -8,6 +8,9 @@
 https://fs.v2rayse.com/share/20240626/gjw3ngbjz3.txt
 ```
 ```
+https://shz.al/CYmP
+```
+```
 https://shz.al/5YHk
 ```
 ```
