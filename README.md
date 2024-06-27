@@ -5,22 +5,16 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://fs.v2rayse.com/share/20240626/gjw3ngbjz3.txt
-```
-```
 https://shz.al/CYmP
 ```
 ```
-https://shz.al/5YHk
+https://shz.al/7MBY
 ```
 ```
 https://shz.al/fdTt
 ```
 ```
 https://fs.v2rayse.com/share/20240625/wtwcht0m6y.txt
-```
-```
-https://fs.v2rayse.com/share/20240627/j7pebhut71.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-06-23/UC6riuO.txt
