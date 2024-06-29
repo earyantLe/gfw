@@ -10,6 +10,18 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
+https://shz.al/bjTw
+```
+```
+https://shz.al/YaES
+```
+```
+https://shz.al/GFxp
+```
+```
+https://shz.al/djaa
+```
+```
 https://fs.v2rayse.com/share/20240628/rmh0pdksys.txt
 ```
 ```
