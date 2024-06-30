@@ -10,9 +10,6 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/8SW8
-```
-```
 https://fs.v2rayse.com/share/20240625/wtwcht0m6y.txt
 ```
 ```
