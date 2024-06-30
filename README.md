@@ -13,6 +13,9 @@
 https://fs.v2rayse.com/share/20240628/z1kul5mfc4.txt
 ```
 ```
+https://shz.al/GQJz
+```
+```
 https://fs.v2rayse.com/share/20240625/wtwcht0m6y.txt
 ```
 ```
