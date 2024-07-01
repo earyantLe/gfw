@@ -22,6 +22,9 @@ https://shz.al/648W
 https://shz.al/yjnp
 ```
 ```
+https://shz.al/tMA3
+```
+```
 https://fs.v2rayse.com/share/20240628/z1kul5mfc4.txt
 ```
 ```
