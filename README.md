@@ -1,3 +1,8 @@
+## 特别注意 ⚠️
+- 本站只有网页版，永久公益，【无附加】任何盈利广告
+- 其他客户端包装的均为【假冒】，请注意甄别
+- 为了您的设备安全，如遇到请立刻【卸载】，谢谢合作
+
 ## 食用方法 🍖
 1. 复制下方生成的订阅链接
 2. 将已复制的链接导入代理软件
@@ -5,28 +10,28 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://shz.al/TkXR
+https://shz.al/JdHt
 ```
 ```
-https://shz.al/jebc
+https://shz.al/Y7F6
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-15/vRZ5pLm.txt
+https://shz.al/A33r
 ```
 ```
-https://shz.al/67AX
+https://shz.al/tMA3
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-13/068JK8P.txt
+https://fs.v2rayse.com/share/20240628/z1kul5mfc4.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-06-12/Ww71Sge.txt
+https://shz.al/GQJz
 ```
 ```
-https://shz.al/3Skk
+https://fs.v2rayse.com/share/20240625/wtwcht0m6y.txt
 ```
 ```
-https://shz.al/MZGD
+https://shz.al/42X2
 ```
 
 ## ★★★★
